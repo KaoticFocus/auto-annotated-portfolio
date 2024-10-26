@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundSize: full
     title: Welcome to Joseph Renovations
     subtitle: Your Trusted Partner in Home Transformation
