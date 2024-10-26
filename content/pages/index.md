@@ -52,7 +52,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/DDDF4445-E228-463F-BDBF-E9B0D92E0A8A_1_105_c.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
