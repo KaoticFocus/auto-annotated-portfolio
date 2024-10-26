@@ -13,7 +13,7 @@ sections:
     colors: colors-c
     backgroundSize: full
     title: Welcome to Joseph Renovations
-    subtitle: Your Trusted Partner in Home Transformation
+    subtitle: Your Trusted Partner in Home Remodeling
     styles:
       self:
         height: auto
