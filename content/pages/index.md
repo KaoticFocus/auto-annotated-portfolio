@@ -41,6 +41,15 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      At **Joseph Renovations**, we specialize in repairing, renewing,
+      remodeling, and renovating homes you love. With over **30 years of
+      industry expertise**, our dedicated team ensures every project is executed
+      with precision and personalized attention to detail. Whether you're
+      dreaming of a modern kitchen, a luxurious bathroom, a custom elevator
+      installation, or a sacred space renovation, **we bring your vision to life
+      with exceptional craftsmanship**.
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
